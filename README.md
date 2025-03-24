@@ -8,8 +8,8 @@ a basic python calculator
 + Multiplication (*)
 
 # How to Use
-a. Run the app
-b. Enter first number
-c. Enter second Number
-d. Select operation
-e. Receive your answer
++ a. Run the app
++ b. Enter first number
++ c. Enter second Number
++ d. Select operation
++ e. Receive your answer

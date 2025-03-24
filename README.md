@@ -2,10 +2,10 @@
 a basic python calculator
 
 # Operations
-+ Addition
-- Subtraction
-/ Division
-* Multiplication
++ Addition (+)
++ Subtraction (-)
++ Division (/)
++ Multiplication (*)
 
 # How to Use
 a. Run the app
